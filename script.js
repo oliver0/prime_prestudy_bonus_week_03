@@ -14,4 +14,4 @@ function add(num){
 	return Math.ceil(num/1000)*1000;
 }
 
-alert(add(multiply(divide())));
+alert(add(multiply(divide(235711))));
